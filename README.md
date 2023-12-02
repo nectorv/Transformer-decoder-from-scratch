@@ -1,7 +1,7 @@
 # Transformer-decoder-from-scratch
 Welcome to my deep learning project! This endeavor revolves around constructing a decoder-based transformer model and training it on the timeless narratives of Jean de la Fontaine's fables. The primary goal of this project is to enhance my understanding of transformer architectures and explore the attainable outcomes using modest computational resources and a limited dataset.
 
-# Project Overview:
+## Project Overview:
 
 Model Architecture: The core of this project involves implementing a decoder-based transformer model. This architecture, known for its prowess in natural language processing, will be tailored to decode and generate narratives inspired by Jean de la Fontaine.
 
